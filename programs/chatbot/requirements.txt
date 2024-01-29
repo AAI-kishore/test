@@ -1,0 +1,10 @@
+datasets
+torch
+TensorFlow >= 2.0
+flax
+transformers
+openai
+faiss
+# conda install -c conda-forge faiss-cpu
+# conda install -c pytorch faiss-cpu=1.7.4 mkl=2021 blas=1.0=mkl
+# conda install -c pytorch/label/nightly faiss-cpu
